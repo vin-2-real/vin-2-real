@@ -1,4 +1,4 @@
-## Hey there! Welcome to my profile! :nerd_face:
+BIO:
 
 
 <a href="https://github.com/JeanExtreme002">
