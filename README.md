@@ -16,13 +16,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## <img width="30" src=""> About Me:
+## About Me:
 -  Currently working on a website.
 - :snake: Python is my main programming language.
 - :video_game: mostly do memory reading and writing cheats in python and c#.
 
 
-Socials:
+## Socials:
 <div>
   <a href="https://discord.gg/invite/" target="_blank">DISCORD</a>
 </div>
