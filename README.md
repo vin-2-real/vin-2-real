@@ -24,5 +24,5 @@
 
 ## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
-  <a href="https://discord.gg/invite/" target="_blank"></a>
+  <a href="https://discord.gg/invite/" target="_blank">DISCORD</a>
 </div>
