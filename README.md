@@ -1,6 +1,3 @@
-BIO:
-
-
 <a href="https://github.com/JeanExtreme002">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin-2-real&theme=react&layout=compact&langs_count=8"/>
 </a>
