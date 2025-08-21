@@ -22,7 +22,7 @@
 - :video_game: mostly do memory reading and writing cheats in python and c#.
 
 
-## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
+Socials:
 <div>
   <a href="https://discord.gg/invite/" target="_blank">DISCORD</a>
 </div>
