@@ -17,9 +17,12 @@
 </div>
 
 ## About Me:
--  Currently working on a website.
 - :snake: Python is my main programming language.
 - :video_game: mostly do memory reading and writing cheats in python and c#.
+
+
+## Current Project:
+-  Currently working on a free cs1.6 steam version setup & discord bot.
 
 
 ## Socials:
